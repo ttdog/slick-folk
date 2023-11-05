@@ -6,7 +6,7 @@
 }
 
 /* Icons */
-@font-face
+/* @font-face
 {
     font-family: 'slick';
     font-weight: normal;
@@ -14,9 +14,9 @@
 
     src: url('./fonts/slick.eot');
     src: url('./fonts/slick.eot?#iefix') format('embedded-opentype'), url('./fonts/slick.woff') format('woff'), url('./fonts/slick.ttf') format('truetype'), url('./fonts/slick.svg#slick') format('svg');
-}
+} */
 /* Arrows */
-.slick-prev,
+/* .slick-prev,
 .slick-next
 {
     font-size: 0;
@@ -40,8 +40,8 @@
     border: none;
     outline: none;
     background: transparent;
-}
-.slick-prev:hover,
+} */
+/* .slick-prev:hover,
 .slick-prev:focus,
 .slick-next:hover,
 .slick-next:focus
@@ -61,8 +61,8 @@
 .slick-next.slick-disabled:before
 {
     opacity: .25;
-}
-
+} */
+/* 
 .slick-prev:before,
 .slick-next:before
 {
@@ -75,8 +75,8 @@
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-}
-
+} */
+/* 
 .slick-prev
 {
     left: -25px;
@@ -111,7 +111,7 @@
 [dir='rtl'] .slick-next:before
 {
     content: '←';
-}
+} */
 
 /* Dots */
 .slick-dotted.slick-slider
